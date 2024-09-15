@@ -1,7 +1,7 @@
-# MarkMyAnswer
+# SPaG Checker
 
-MarkMyAnswer is an AI-powered tool that assists you to check for spelling and grammar mistakes in your writing.
+This is an AI-powered tool that assists you to check for spelling and grammar mistakes in handwritten text.
 
-This project is currently still in development.
+The project is written in dart using the flutter framework.
 
-Any issues should be directed to: sivasatyan.b@gmail.com
+Siva
